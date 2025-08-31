@@ -15,7 +15,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.8"
 urllib3 = "*"
-requests = "^2.24.0"
+requests = "^2.32.4"
 setuptools = "*"
 iptools = "*"
 pydispatcher = "*"
